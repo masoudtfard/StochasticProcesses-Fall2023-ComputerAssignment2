@@ -1,2 +1,6 @@
-# StochasticProcesses-Fall2023-ComputerAssignment2
-Computer Assignments #2 [Random Walks, Poisson Process, Brownian Bridge] - Stochastic Processes Course - Sharif University of Tehran - Dr. Behnia
+# Stochastic Processes Course - Computer Assignment #2 - Fall 2023
+## Sharif University of Technology
+
+* Q1: 2-D Random Walk
+* Q2: Poisson Process
+* Q3: Brownian Bridge
